@@ -16,3 +16,4 @@ A lightweight, real-time activity tracking script for Windows built in Python. I
 3. Run the script in PowerShell or Command Prompt:
    ```bash
    python snifferENG.py
+To run it, enter the command: cd desktop. and then python snifferENG.py
